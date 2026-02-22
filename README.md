@@ -15,12 +15,8 @@ y el grado de preparación para la transición post-cuántica (PQC).
 
 ## Uso
 
-### Opción A — Script Python
-```bash
-python hndl_pqc_server.py
-```
 
-### Opción B — Ejecutable Windows
+### Opción A — Ejecutable Windows
 Descarga el `.exe` desde [Releases](../../releases)
 
 ## Autor
